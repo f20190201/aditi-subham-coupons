@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.is_whitelisted() FROM PUBLIC, anon, authenticated;
